@@ -6,7 +6,7 @@ subtitle: Kinesiology Student at the University of Calgary
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg.JPEG
   image_circular: false 
  
 news: false

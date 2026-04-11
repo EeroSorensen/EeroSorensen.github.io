@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Kinesiology Student: University of Calgary : KNES 381
+subtitle: Kinesiology Student at the University of Calgary
 
 profile:
   align: right

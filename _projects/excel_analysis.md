@@ -2,6 +2,7 @@
 layout: page
 title: "Excel Athlete Performance Analysis" 
 description: "PivotTable, PivotChart, slicers and conditional formatting applied to a performance dataset" 
+img: assets/img/icons8-excel-48.png
 category: work
 ---
 

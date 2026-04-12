@@ -2,7 +2,7 @@
 layout: page
 title: VO₂ Analysis
 description: "Interactice Metabolic Cart Data Analysis"
-img assets/img/vo2_preview.png
+img: assets/img/vo2_preview.png
 category: work
 --- 
 

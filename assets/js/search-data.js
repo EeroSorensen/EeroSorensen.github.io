@@ -456,6 +456,11 @@ ninja.data = [{
           description: "An interactive maze built in Scratch demonstrating control flow, variables and user interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ScratchMaze/";
+            },},{id: "projects-excel-athlete-performance-analysis",
+          title: 'Excel Athlete Performance Analysis',
+          description: "PivotTable, PivotChart, slicers and conditional formatting applied to a performance dataset",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/excel_analysis/";
             },},{id: "projects-vo-analysis",
           title: 'VO₂ Analysis',
           description: "Interactice Metabolic Cart Data Analysis",

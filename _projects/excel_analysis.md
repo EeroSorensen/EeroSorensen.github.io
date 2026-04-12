@@ -19,4 +19,4 @@ This project analyzes an athlete performance dataset using Microsoft Excel. Demo
 
 ## Spreadsheet
 
-<iframe src="https://1drv.ms/u/c/18a6b7e3d02bfb85/IQQy_7YNKT5FRrNZycFo7KZ_AfMc-35U0hiDVu9N-QTb0_g" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://1drv.ms/u/c/18a6b7e3d02bfb85/IQQXnTlVSW8kTaux2CIU7a_BAUKx0P0DgDJpm_acz8az7gk" width="98" height="120" frameborder="0" scrolling="no"></iframe>

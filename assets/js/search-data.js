@@ -496,9 +496,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-vo-analysis",
+          title: 'VO₂ Analysis',
+          description: "Interactice Metabolic Cart Data Analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vo2_analysis/";
             },},{id: "teachings-data-science-fundamentals",

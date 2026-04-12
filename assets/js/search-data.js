@@ -451,7 +451,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-vo-analysis",
+          section: "News",},{id: "projects-scratch-maze",
+          title: 'Scratch Maze',
+          description: "An interactive maze built in Scratch demonstrating control flow, variables and user interaction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ScratchMaze/";
+            },},{id: "projects-vo-analysis",
           title: 'VO₂ Analysis',
           description: "Interactice Metabolic Cart Data Analysis",
           section: "Projects",handler: () => {

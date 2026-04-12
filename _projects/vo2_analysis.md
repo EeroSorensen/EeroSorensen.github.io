@@ -16,7 +16,7 @@ The analysis was developed in Python (matplotlib) on Kaggle and then extended in
 
 ## Notebook 
 
-<iframe src="https://nbviewer.org/github/EeroSorensen/KNES_381_PythonProject/blob/main/knes381-pythonproject-eeros.ipynb?flush_cache=true"
+<iframe src="https://www.kaggle.com/embed/eerosorensen/knes381-pythonproject-eeros"
 height="900" width="100%" frameborder="0" scrolling="auto" 
 title="KNES381 Python Project"></iframe>
 

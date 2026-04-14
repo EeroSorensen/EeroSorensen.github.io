@@ -2,6 +2,7 @@
 layout: page
 title: "KNES 367: Problem and Solution"
 description: "Reduced Maximal Aerobic Capacity Due to Sedentary Lifestyle"
+img: P&A.png
 category: work
 ---
 
@@ -11,4 +12,4 @@ This project presents the design and purpoe of an app focused on improving aerob
 
 ---
 
-<iframe src="https://1drv.ms/u/c/18a6b7e3d02bfb85/IQSfHbpQkRWCQ6kvzo69fy_CAUGKjaC6n5XILhDsq3WzVa8" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://1drv.ms/p/c/18a6b7e3d02bfb85/IQSKydidf_iVQ6jgjUtRZMeXAc1GxqcW8JjB0f-Fw4LFaxo" width="100%" height="700" frameborder="0" scrolling="no"></iframe>

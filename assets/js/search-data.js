@@ -407,9 +407,9 @@ ninja.data = [{
           description: "An interactive maze built in Scratch demonstrating control flow, variables and user interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ScratchMaze/";
-            },},{id: "projects-essay",
-          title: 'Essay',
-          description: "",
+            },},{id: "projects-data-driven-advancements-in-major-league-baseball-the-rise-of-torpedo-bats",
+          title: 'Data Driven Advancements in Major League Baseball: The Rise of Torpedo Bats',
+          description: "The rise of torpedo bats, how data, collision physics and precise manufacturing are transforming bat design in Major League Baseball",
           section: "Projects",handler: () => {
               window.location.href = "/projects/essay/";
             },},{id: "projects-excel-athlete-performance-analysis",

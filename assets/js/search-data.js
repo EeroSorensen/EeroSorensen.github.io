@@ -419,7 +419,7 @@ ninja.data = [{
               window.location.href = "/projects/excel_analysis/";
             },},{id: "projects-vo-analysis",
           title: 'VO₂ Analysis',
-          description: "Interactice Metabolic Cart Data Analysis",
+          description: "Interactive Metabolic Cart Data Analysis using Python",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vo2_analysis/";
             },},{id: "teachings-data-science-fundamentals",

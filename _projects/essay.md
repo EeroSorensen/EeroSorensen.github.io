@@ -2,7 +2,7 @@
 layout: page
 title: "Data Driven Advancements in Major League Baseball: The Rise of Torpedo Bats"
 description: "The rise of torpedo bats, how data, collision physics and precise manufacturing are transforming bat design in Major League Baseball"
-img:
+img: assets/img/TorpedoBats.jpg
 category: work
 --- 
 

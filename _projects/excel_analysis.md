@@ -12,11 +12,15 @@ This project analyzes an athlete performance dataset using Microsoft Excel. Demo
 
 ---
 
-## Features
-1. PivotTable | Built from performance dataset
-2. Slicers | Filter the PivotTable interactively
-3. PivotChart | Linked To the PicotTable
-4. Conditional formatting | Rule applied to highlight key values
+## Features ##
+
+Feature | Description
+------------- | -------------
+**PivotTable** | Built from the raw athlete performance dataset
+**Slicers** | Filter the PivotTable interactively by Age and Experience Level
+**PivotChart** | Linked dynamically to the PivotTable — updates with slicer selections
+**Conditional Formatting** | Rule applied to the raw data to highlight key values
+
 
 ## Spreadsheet
 

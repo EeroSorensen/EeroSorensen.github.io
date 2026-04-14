@@ -1,16 +1,43 @@
 ---
 layout: page
 title: VO₂ Analysis
-description: "Interactice Metabolic Cart Data Analysis"
+description: "Interactive Metabolic Cart Data Analysis using Python"
 img: assets/img/vo2_preview.png
 category: work
 --- 
 
-## Overview
+## Overview ##
 
 This project analyzes exercise physiology data collected during a graded test. The dataset wsa sourced from [demo-knes381 Kaggle dataset](https://www.kaggle.com/datasets/drjohnholash/demo-knes381) by Dr. John Holash at the University of Calgary.
 
-The analysis was developed in Python (matplotlib) on Kaggle and then extended into here. 
+The analysis was developed in Python (matplotlib) and is embedded directly from Kaggle. THe figure is generated programmatically from the CSV data. Changing the input dataset will automatically update all four panels
+
+---
+
+## How it Works ##
+
+The code follows a step-by-step workflow: 
+
+1. **Loading data** from the raw CSV file into pandas DataFrame using 'pd.read_csv()', skipping the metadata rows at the top
+2. **Rename columns** from duplicate column headers are cleaned up using 'df.rename()'
+3. **Assigned variables** (VO₂, VE, VCO₂, FECO₂) are extracted from the DataFrame
+4. **Finding VO₂max** by identifying the maximum value of VO₂ and its time point by using 'max()' and "argmax()'
+5. **Generating the figure** by creating a 4-panel subplot using 'matplotlib.pyplot', with all panels sharing an x-axis (time)
+6. **Annotating** the VO₂max value directly on the plot with a red arrow
+7. **saving** the figure at 300 dpi using "fig.savefig()'
+
+Each panel uses tehe same dataset to plot a physiological variable against time. Changing the input CSV will update all four panels automatically.
+
+---
+
+## Variables Analyzed ##
+
+Variable | Description | Unit
+------------- | ------------- | -------------
+**V̇O₂** | Oxygen uptake | L/min
+**VE** | Minute ventilation | breaths/min
+**V̇CO₂** | Carbon dioxide output | L/min
+**FECO₂** | Fractional expired CO₂ | %
 
 ---
 

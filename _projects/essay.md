@@ -28,11 +28,11 @@ To create a customized torpedo bat, teams collect multiple points of data spanni
 
 Analysts record swing mechanics, swing path, bat speed, attack angle, attack direction, and swing path tilt. Spatial positioning is also monitored — where they stand in the batter's box and where contact with the ball occurs relative to home plate and the batter's center of mass. Impact quality is measured via:
 
-Exit velocity
+- Exit velocity
 
-Square up swings (contact achieving at least 80% of maximum exit velocity)
+- Square up swings (contact achieving at least 80% of maximum exit velocity)
 
-Blasts (squared up swings with bat speed meeting a player-specific threshold)
+- Blasts (squared up swings with bat speed meeting a player-specific threshold)
 
 These data points can create a bat that increases peak exit velocity by 1 mph (Pereira, 2026), leading to a 2–5% increase in hit probability (Statcast).
 

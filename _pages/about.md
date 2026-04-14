@@ -11,7 +11,7 @@ profile:
  
 news: false
 selected_papers: false
-social: true
+social: false
 ---
 
 Hi, I'm Eero Sorensen. I'm a currently studying kinesiology at the University of Calgary, specifically interested in adapted physical activtiy and data analysis in sports science. 

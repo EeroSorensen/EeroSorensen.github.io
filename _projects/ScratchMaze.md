@@ -21,8 +21,8 @@ This project is an interavtive maze game built in Scratch as part of KNES 381. D
 ---
 
 ## Play the Maze
-<iframe src="https://scratch.mit.edu/projects/1286619322/embed" 
-allowtransperency="true" width"485" height="402" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://scratch.mit.edu/projects/1286619322/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ---
 

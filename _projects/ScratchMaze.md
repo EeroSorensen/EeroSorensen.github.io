@@ -7,16 +7,19 @@ category: work
 
 ## Overview
 
-This project is an interavtive maze game built in Scratch as part of KNES 381. Demonstrating progamming concepts including control flow, conditional logic, variables and user interaction, without the use of traditional code.
+This project is an interactive maze game built in Scratch as part of KNES 381. Demonstrating progamming concepts including control flow, conditional logic, variables and user interaction, without the use of traditional code.
 
 ---
 
-## Porgramming Concepts used 
-1. Control flow
-2. Conditions
-3. User Interaction
-4. Variables
-5. AntiCheat
+## Programming Concepts Used ##
+
+Concept | Description
+------------- | -------------
+**Control Flow** | The sprite continuously checks for wall collisions and responds
+**Conditions** | If touching a wall — reset position; if reaching the end — trigger win
+**User Interaction** | Arrow key inputs move the sprite through the maze
+**Variables** | Timer or move counter tracking progress
+**Anti-Cheat** | Prevents the player from bypassing maze walls
 
 ---
 

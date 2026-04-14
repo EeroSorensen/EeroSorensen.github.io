@@ -2,6 +2,7 @@
 layout: page
 title: "Scratch Maze"
 description: "An interactive maze built in Scratch demonstrating control flow, variables and user interaction"
+img: assets/img/Scatch.png
 category: work
 ---
 

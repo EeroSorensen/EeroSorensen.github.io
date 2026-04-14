@@ -402,7 +402,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-scratch-maze",
+          section: "News",},{id: "projects-knes-367-problem-and-solution",
+          title: 'KNES 367: Problem and Solution',
+          description: "Reduced Maximal Aerobic Capacity Due to Sedentary Lifestyle",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Problem&Solution/";
+            },},{id: "projects-scratch-maze",
           title: 'Scratch Maze',
           description: "An interactive maze built in Scratch demonstrating control flow, variables and user interaction",
           section: "Projects",handler: () => {

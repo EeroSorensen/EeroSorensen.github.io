@@ -24,4 +24,4 @@ Feature | Description
 
 ## Spreadsheet
 
-<iframe src="https://1drv.ms/x/c/18a6b7e3d02bfb85/IQRd4ZTTkh5mRrNOQ_ZUbh1SASvDNQ_mj0Wr1D-MnGBG_Ks" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://1drv.ms/x/c/18a6b7e3d02bfb85/IQRd4ZTTkh5mRrNOQ_ZUbh1SASvDNQ_mj0Wr1D-MnGBG_Ks" width="402" height="700" frameborder="0" scrolling="no"></iframe>

@@ -7,7 +7,7 @@ This repositpory contains my final project for KNES 381 at the University of Cal
 Site link: https://eerosorensen.github.io
 
 ## Purpose ##
-This portfolio demonstratesd my ability to utilize computational skills on kinesiology-related issues, including Python-based data analysis, Excel Data systems, interactive visualization, and logic-based programming
+This portfolio demonstrates my ability to utilize computational skills on kinesiology-related issues, including Python-based data analysis, Excel Data systems, interactive visualization, and logic-based programming
 
 ## Tools and Technology Used ##
 Tool | Purpose

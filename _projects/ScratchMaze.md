@@ -8,7 +8,7 @@ category: work
 
 ## Overview ## 
 
-This project is an interactive maze game built in Scratch as part of KNES 381. Demonstrating progamming concepts including control flow, conditional logic, variables and user interaction, without the use of traditional code.
+This project is an interactive maze game built in Scratch as part of KNES 381. Demonstrating programming concepts including control flow, conditional logic, variables and user interaction, without the use of traditional code.
 
 The maze runs on logic-based programming. Movement, collision, and the win condition are driven by rules and checks that continuously run in the background, forming a complete control loop. 
 

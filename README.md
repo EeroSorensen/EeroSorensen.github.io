@@ -21,7 +21,7 @@ Tool | Purpose
 **Git / GitHub** | Version control and project hosting
 
 ## How to Navigate the Site ##
-About 
+
 The home page gives an introduction to me and my background in kinesiology.
 
 Projects

@@ -2,7 +2,7 @@ KNES 381 - Final Project: Public Portfolio (GitHub Pages)
 
 Eero Sorensen | University of Calgary
 
-This repositpory contains my final project for KNES 381 at the University of Calgary. It is a public portfolia built with Github Pages using the al-folio Jekyll theme, showcasing my work completed throughout the semester. 
+This repositpory contains my final project for KNES 381 at the University of Calgary. It is a public portfolio built with Github Pages using the al-folio Jekyll theme, showcasing my work completed throughout the semester. 
 
 Site link: https://eerosorensen.github.io
 

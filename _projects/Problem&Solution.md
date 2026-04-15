@@ -2,7 +2,7 @@
 layout: page
 title: "KNES 367: Problem and Solution"
 description: "Reduced Maximal Aerobic Capacity Due to Sedentary Lifestyle"
-img: assets/img/Screenshot_14-4-2026_16378_.jpeg
+img: assets/img/Screenshot 2026-04-14 192955.png
 category: work
 ---
 

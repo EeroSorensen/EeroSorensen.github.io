@@ -8,9 +8,9 @@ category: work
 
 ## Overview ##
 
-This project analyzes exercise physiology data collected during a graded test. The dataset wsa sourced from [demo-knes381 Kaggle dataset](https://www.kaggle.com/datasets/drjohnholash/demo-knes381) by Dr. John Holash at the University of Calgary.
+This project analyzes exercise physiology data collected during a graded test. The dataset was sourced from [demo-knes381 Kaggle dataset](https://www.kaggle.com/datasets/drjohnholash/demo-knes381) by Dr. John Holash at the University of Calgary.
 
-The analysis was developed in Python (matplotlib) and is embedded directly from Kaggle. THe figure is generated programmatically from the CSV data. Changing the input dataset will automatically update all four panels
+The analysis was developed in Python (matplotlib) and is embedded directly from Kaggle. The figure is generated programmatically from the CSV data. Changing the input dataset will automatically update all four panels
 
 ---
 
@@ -26,7 +26,7 @@ The code follows a step-by-step workflow:
 6. **Annotating** the VO₂max value directly on the plot with a red arrow
 7. **saving** the figure at 300 dpi using "fig.savefig()'
 
-Each panel uses tehe same dataset to plot a physiological variable against time. Changing the input CSV will update all four panels automatically.
+Each panel uses the same dataset to plot a physiological variable against time. Changing the input CSV will update all four panels automatically.
 
 ---
 

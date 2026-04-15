@@ -24,14 +24,14 @@ Tool | Purpose
 
 The home page gives an introduction to me and my background in kinesiology.
 
-Projects
-Here my projects are showcased, each with it's own page: 
+on the *Projects* page my projects are showcased, each with it's own page: 
 * VO2 analysis
 * Excel Athlete Performance Analysis
 * Scratch Maze
 * Data Driven Advancements in Major League Baseball: The Rise of Torpedo Bats
+* Problem and Solution Presentation
 
-CV 
+## CV ##
 A full curriculum vitae including education, work experience, volunteer experience, skills and projects. 
 
 ## Repository Structure ##

@@ -18,13 +18,13 @@ The analysis was developed in Python (matplotlib) and is embedded directly from 
 
 The code follows a step-by-step workflow: 
 
-1. **Loading data** from the raw CSV file into pandas DataFrame using 'pd.read_csv()', skipping the metadata rows at the top
-2. **Rename columns** from duplicate column headers are cleaned up using 'df.rename()'
+1. **Loaded data** from the raw CSV file into pandas DataFrame using 'pd.read_csv()', skipping the metadata rows at the top
+2. **Renamed columns** from duplicate column headers are cleaned up using 'df.rename()'
 3. **Assigned variables** (VO₂, VE, VCO₂, FECO₂) are extracted from the DataFrame
-4. **Finding VO₂max** by identifying the maximum value of VO₂ and its time point by using 'max()' and "argmax()'
-5. **Generating the figure** by creating a 4-panel subplot using 'matplotlib.pyplot', with all panels sharing an x-axis (time)
+4. **Finding VO₂max** by identifying the maximum value of VO₂ and its time point by using 'max()' and 'argmax()'
+5. **Generated the figure** by creating a 4-panel subplot using 'matplotlib.pyplot', with all panels sharing an x-axis (time)
 6. **Annotating** the VO₂max value directly on the plot with a red arrow
-7. **saving** the figure at 300 dpi using "fig.savefig()'
+7. **save** the figure at 300 dpi using 'fig.savefig()'
 
 Each panel uses the same dataset to plot a physiological variable against time. Changing the input CSV will update all four panels automatically.
 

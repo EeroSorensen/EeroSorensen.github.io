@@ -12,7 +12,7 @@ cv:
 
   sections:
     Education:
-      - institution: University of Calgary
+           - institution: University of Calgary
         location: "Calgary, AB"
         area: "Kinesiology Sciences"
         studyType: "Bachelor of Kinesiology"
@@ -20,7 +20,42 @@ cv:
         end_date: "2027"
         highlights:
           - "Faculty of Kinesiology — Major in Kinesiology Sciences"
+                  - "KNES 585: Innovations in Wearable Technology"
+          - "KNES 501: Sport and Law"
+          - "KNES 478: Strength Training Science"
+          - "KNES 451: Advanced Topics in Human Motor Control and Learning"
+          - "KNES 399: Sport Psychology"
           - "KNES 381: Computational Tools in Kinesiology"
+          - "KNES 373: Exercise Physiology"
+          - "KNES 372: Foundations of Sports Medicine"
+          - "KNES 367: Adapted Physical Activity"
+          - "KNES 365: Sensorimotor Neuroscience"
+          - "KNES 363: Biomechanics of Biological Materials"
+          - "KNES 355: Human Growth and Development"
+          - "KNES 351: Foundations of Neural Control of Movement"
+          - "KNES 344: Gender, Sexuality and Sport"
+          - "KNES 337: Introduction to Nutrition"
+          - "KNES 323: Integrative Human Physiology"
+          - "KNES 263: Quantitative Biomechanics"
+          - "KNES 260: Human Anatomy and Physiology II"
+          - "KNES 259: Human Anatomy and Physiology I"
+          - "KNES 253: Introduction to Exercise and Sport Psychology"
+          - "KNES 251: Introduction to Human Motor Control and Learning"
+          - "KNES 244: Sociology of Movement Cultures"
+          - "KNES 203: Activity: Health, Fitness and Performance"
+          - "KNES 201: Activity: Essence and Experience"
+          - "**Open Options**"
+          - "STAT 213: Introduction to Statistics I"
+          - "SOCI 327: Introduction to the Field of Criminal Justice"
+          - "SOCI 201: Introduction into Sociology"
+          - "RELS 205: Religion and the Good Life"
+          - "GSXS 201: Talking Gender and Sexuality"
+          - "GRST 311: Introduction to Greek and Roman Myths"
+          - "GRST 211: Technical Terms of Medicine and the Life Sciences"
+          - "GRST 205: Introduction to Greece and Rome"
+          - "ERTH 204: Earth, Energy and Environment"
+          - "ENGL 253.02: Poetry"
+          - "DRAM 203: Creativity"
 
       - institution: Maple Ridge Christian School
         location: "Maple Ridge, BC"

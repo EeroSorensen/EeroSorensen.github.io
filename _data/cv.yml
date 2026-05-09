@@ -79,6 +79,38 @@ cv:
           - "Shadowed certified coaching staff, learning program design and testing"
           - "Performed equipment set up and cleanup"
 
+- company: Maple Ridge Christian School
+        position: "Assistant Coach - Senior Boys Basketball"
+        location: "Maple Ridge, BC"
+        start_date: 2022-09
+        end_date: 2023-04
+        highlights:
+          - "Assisted in coaching the MRCS Hornets senior boys basketball team"
+          - "Designed and led practice plans covering skill development, team strategy and game preparation"
+          - "Managed game-day lineups and substitutions in collaboration with head coaching staff" 
+          - "Reviewed game film to identify opponent tendencies and areas for team improvement"
+          - "Recorded and tracked in-game statistics to support performance evaluation"
+
+- company: Maple Ridge Christian School
+        position: "Co-Head Coach - Middle School Basketball & Volleyball"
+        location: "Maple Ridge, BC"
+        start_date: 2021-09
+        end_date: 2022-04
+        highlights:
+          - "Co-led coaching of the MRCS Hornets middle school basketball and volleyball programs"
+          - "Designed and ran practice plans covering funamental skills, team strategy and game preparation"
+          - "Mentored and developed student-athletes in grades 6-8 across two team sports"
+          - "Managed game-day logistics including transportation, lineups, substitutions, and athlete communication" 
+
+  - company: Maple Ridge Christian School
+        position: "Volunteer Coach - Middle School Badminton"
+        location: "Maple Ridge, BC"
+        start_date: 2022-09
+        end_date: 2023-04
+        highlights:
+          - "Ran drills and supervised match play for middle school badminton program"
+          - "Developed fundamental skills and competitive habits in student-athletes" 
+          
       - company: Esperanza Ministries
         position: "Lead Labourer"
         location: "Esperanza, BC"

@@ -4,6 +4,7 @@ title: VO₂ Analysis
 description: "Interactive Metabolic Cart Data Analysis using Python"
 img: assets/img/vo2_preview.png
 category: work
+selected: true
 --- 
 
 ## Overview ##
